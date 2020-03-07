@@ -36,6 +36,7 @@ namespace HelloWorldConsole
             Console.Write("Output of local MyName: ");
             Console.WriteLine(MyName 
                 + p.squareMe(5).ToString() + "x");
+            Console.WriteLine("Hahaha!");
             Console.ReadLine();
             
         }
