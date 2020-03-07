@@ -37,6 +37,7 @@ namespace HelloWorldConsole
             Console.WriteLine(MyName 
                 + p.squareMe(5).ToString() + "x");
             Console.WriteLine("Hahaha!");
+            Console.WriteLine("Tawa Pa!");
             Console.ReadLine();
             
         }
